@@ -1,0 +1,10 @@
+{
+  "name": "ai-study-manager-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure Node.js backend for AI Study Manager",
+  "type": "module",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "dotenv": "^16.4.5" }
+}
